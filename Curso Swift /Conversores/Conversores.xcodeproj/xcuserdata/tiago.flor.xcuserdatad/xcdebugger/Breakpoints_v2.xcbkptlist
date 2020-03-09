@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8F830DF3-25D7-4BBB-9DFE-8EC7C8BB33A7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F812618-275C-4250-9EDF-2330A4653E11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Conversores/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12FDA9F8-CB86-44FD-A1A6-64EC2E193DC0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Conversores/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "showNext(sender:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12FDA9F8-CB86-44FD-A1A6-64EC2E193DC0 - 10f6e54f412da7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Conversores.ViewController.showNext(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Conversores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiago.flor/Documents/Curso%20Swift%20/Conversores/Conversores/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "12FDA9F8-CB86-44FD-A1A6-64EC2E193DC0 - 10f6e54f412da7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Conversores.ViewController.showNext(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Conversores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiago.flor/Documents/Curso%20Swift%20/Conversores/Conversores/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "12FDA9F8-CB86-44FD-A1A6-64EC2E193DC0 - 10f6e54f412da7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Conversores.ViewController.showNext(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Conversores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiago.flor/Documents/Curso%20Swift%20/Conversores/Conversores/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1679">
+               </Location>
+               <Location
+                  uuid = "12FDA9F8-CB86-44FD-A1A6-64EC2E193DC0 - 10f6e54f412da7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Conversores.ViewController.showNext(sender: __C.UIButton) -&gt; ()"
+                  moduleName = "Conversores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiago.flor/Documents/Curso%20Swift%20/Conversores/Conversores/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "2839">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3C4BDE0-AAE2-44BB-B9E2-1984E9A49A79"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Conversores/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
